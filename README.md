@@ -15,6 +15,7 @@ How I work: every model is compared against a published method, checked on data 
 | [**Pneumonia-Xray-AI**](https://github.com/Engr-HusainNaqvi/Pneumonia-Xray-AI) — children's chest X-rays | 95.9% accuracy, AUC 0.991; flags its own likely mistakes (AUROC 0.91) | [results](https://engr-husainnaqvi.github.io/Pneumonia-Xray-AI/) · [app](https://pneumonia-xray-ai.streamlit.app) |
 | [**Retinopathy-DR-AI**](https://github.com/Engr-HusainNaqvi/Retinopathy-DR-AI) — diabetic eye disease grading | Referral AUC 0.92, expert agreement κ 0.76, ordinal (CORAL) model | [results](https://engr-husainnaqvi.github.io/Retinopathy-DR-AI/) · [app](https://retinopathy-dr-ai.streamlit.app) |
 | [**MouseReg-AI**](https://github.com/Engr-HusainNaqvi/MouseReg-AI) — 3D MRI ↔ micro-CT registration | 0.69 mm error, 2 s per pair (ANTs: 88 s), 0% tissue folding | [results](https://engr-husainnaqvi.github.io/MouseReg-AI/) · [app](https://mousereg-studio.streamlit.app) |
+| [**WBC-XAI**](https://github.com/Engr-HusainNaqvi/WBC-XAI) — testing explainable AI for blood-cell images on a second microscope | ViT 0.983 → 0.80 on new microscope; "interpretable" concept models collapse 0.90 → 0.34; 6/11 explainers pass | [results](https://engr-husainnaqvi.github.io/WBC-XAI/) |
 
 #### Cancer and genomics
 
