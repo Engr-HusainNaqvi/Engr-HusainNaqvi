@@ -2,7 +2,7 @@
 
 Biomedical engineer building AI for **medical imaging, cancer genomics and clinical prediction**. Head of Biomedical Engineering at PESSI (Govt. of Punjab) · MS Biomedical Engineering (grade A), Riphah International University · Level 5 National Certified Assessor in AI (NAVTTC) · **Looking for a funded PhD.**
 
-How I work: every model is compared against a published method, checked on data it never saw (another hospital, cohort or cell type), and reported with its failures. Each project below has a results page and a live app you can try without signing in.
+How I work: every model is compared against a published method, checked on data it never saw (another hospital, cohort or cell type), and reported with its failures. Each project below has a results page, and most have a live app you can try without signing in.
 
 ![Model detections on real patient images](assets/results.jpg)
 
