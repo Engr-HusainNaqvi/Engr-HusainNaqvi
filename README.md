@@ -34,7 +34,6 @@ How I work: every model is compared against a published method, checked on data 
 | [**Sperm-Select-AI**](https://github.com/Engr-HusainNaqvi/Sperm-Select-AI) — sperm tracking and motility for IVF/ICSI | 94.9% agreement with WHO grades; tracking MOTA 0.656 vs 0.461 | [results](https://engr-husainnaqvi.github.io/Sperm-Select-AI/) · [app](https://spermselect-ai.streamlit.app) |
 | [**Gait-Outcome-AI**](https://github.com/Engr-HusainNaqvi/Gait-Outcome-AI) — forecasting walking recovery | 19% lower error than no-change baseline; calibrated ranges | [results](https://engr-husainnaqvi.github.io/Gait-Outcome-AI/) · [app](https://gaittwin-gait-recovery.streamlit.app) |
 | [**BioMaint-PPM**](https://github.com/Engr-HusainNaqvi/BioMaint-PPM) — hospital equipment maintenance planning | Risk-based (Fennigkoh–Smith) and workload-levelled: busiest day 380 → 6 visits | from my hospital work |
-| [**ANN-vs-RNN-Iris**](https://github.com/Engr-HusainNaqvi/ANN-vs-RNN-Iris) — neural networks from the maths up | Hand-derived backprop, gradient error 10⁻⁹, paired statistics | [results](https://engr-husainnaqvi.github.io/ANN-vs-RNN-Iris/) · [app](https://ann-vs-rnn-iris.streamlit.app) |
 
 **Tools:** Python, PyTorch, TensorFlow, scikit-learn, ONNX, Streamlit, Google Colab GPUs.
 
